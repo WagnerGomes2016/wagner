@@ -1,0 +1,51 @@
+
+usuarios
+----------------------------------------------------------------------------------------------------------------
+id | 	nome 	| 	email 	| 	login 	| senha 	| code 		| nivel		|	data 	|
+
+1
+
+---|------------|---------------|---------------|---------------|---------------|---------------|---------------|
+int    varchar 	     varchar 	     varchar      varchar 	   varchar 	  int(3)	    timestamp		
+	255
+
+
+categorias
+-------------------------
+id	| nome		|   slug   |  views
+
+ 1 	| FORNT END  	|fornt end | 
+ 2	| BACK END	| 	   | 
+ 3	| MYSQL  	|   	   | 
+
+
+
+sub-categorias (sessões)
+----------------------------------------
+id	| nome		|  categoria_id | slug 		|  views
+
+
+ 1 	| HTML5   	| 	1	| html 		|  
+ 2	| CSS	   	| 	1	| css
+ 3	| JAVASCRIPT  	| 	1	| javascript 	|
+ 4	| JQUERY	| 	1	| jquery
+ 5	| BOOTSTRAP	| 	1	| bootstrap	|
+ 6	| PHP		| 	2	| php
+
+
+
+
+posts
+----------------------------------------------------------------------------------------------------------------------------------------------
+id 	|subcategoria_id|    img  	| titulo	| descricao	| usuario_id | categoria_id	| slug			| exibir|	data
+
+1	|    2		| src="img.png"	|  box-shadow	| saiba.....	| 1	     | 	1		| css/front end		| sim	|	31/08/2017	
+
+2	|    3		| src="no.png"  | slide-show    | saiba.....	| 2	     |  1		| javascript/front end	| não	|	31/08/2017	
+
+
+--------|---------------|---------------|---------------|---------------|------------|------------------|-----------------------|-------|---
+int(key)     varchar	     varchar	       varchar	     varchar	   int		 int		   varchar		   		timestamp	  
+	       255	      255		255		255	     	  	    		       255				255
+
+

@@ -1,0 +1,48 @@
+﻿
+width-total :1170px;  - 60  = 110px
+
+/*content*/
+max-width: 1110px - menu
+
+
+
+/*side-bar-left*/
+min-width: 376px  + margin-right:30px
+376 - 30pad-left - 30padright = 316
+
+
+
+/*side-bar-center*/
+min-width: 764px  -> 
+
+
+
+/styles dos box /
+
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+border-radius: 4px;
+box-sizing: inherit;
+----------------------------------------------------------------------------------
+15+ 67+ 15+ 15+ 68+ 15+ 15+ 67+ 15+ 15+ 68+ 15+ 15+ 67+ 15+ 15+ 68+ 15+ 15+ 67+ 15+ 15+ 68+ 15+ 15+ 67+ 15+ 15+ 68+ 15+ 15+ 67+ 15+ 15+ 68+ 15+
+
+
+
+15  px = 1 of set
+30  px = 2 of set
+
+67  px = 1  col
+165 px = 2  col
+262 px = 3  col
+360 px = 4  col
+457 px = 5  col
+555 px = 6  col
+652 px = 7  col
+750 px = 8  col 
+847 px = 9  col
+945 px = 10 col
+1042px = 11 col
+1140px = 12 col
+
+1140
+1109
+

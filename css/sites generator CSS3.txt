@@ -1,0 +1,23 @@
+
+/* CSS3 BORDER RADIUS  */
+
+ http://www.cssmatic.com/border-radius
+ http://css3gen.com/border-radius/
+ http://www.cssportal.com/css3-rounded-corner/
+ http://css3generator.com/
+ http://www.css3.me/
+ http://www.colorzilla.com/gradient-editor/
+
+/* PLUGINS ULTILIZADOS */
+
+-- para slide show com videos  --
+https://blueimp.github.io/Gallery/  
+https://blueimp.github.io/Gallery/
+https://github.com/blueimp/Bootstrap-Image-Gallery
+https://plugins.jquery.com/blueimp-bootstrap-image-gallery/
+https://github.com/blueimp/Gallery/blob/master/README.md#demo  <--- documentação
+
+
+-- para slide show com imagens --
+https://plugins.jquery.com/jcarousel/
+http://sorgalla.com/jcarousel/examples/

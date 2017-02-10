@@ -1,0 +1,165 @@
+﻿
+
+
+	h1
+	{
+		margin: 15px 0px 0px 2px;
+
+		font:  17px/25px  "verdana" ;
+		
+		color: #888;
+	}
+
+	hr 
+	{ 
+		margin: 5px 0px 5px 0px;
+		color: #fff; 
+		background: #fff;
+	}
+
+	
+
+
+	button 
+	{
+		float: left;
+		border-radius: 5%;
+		cursor: pointer;
+		display: block;
+		width: 70px;
+		height: 30px;
+
+		margin: 0px 3px 10px 0px ;
+		padding: 0px 0px 0px 0px ;
+		font: 500 12px/18px "Eras Medium ITC" , verdana ;
+
+		opacity: 0.89;
+
+		color: white;
+
+		background: rgb(225, 244, 255);
+		background: -moz-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -webkit-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -o-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -ms-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: linear-gradient(180deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);	
+	}
+	
+	button:hover
+	{
+		color: white;
+	}
+
+	span.sinal
+	{
+		float: left;
+		border-radius: 5%;
+		cursor: pointer;
+		display: block;
+		width: 70px;
+		height: 30px;
+
+		margin: 0px 3px 10px 0px ;
+		padding: 0px 0px 0px 0px ;
+		font: 500 12px/18px "Eras Medium ITC" , verdana ;
+
+		text-align: center;
+		opacity: 0.89;
+
+
+		color: white;
+
+		background: rgb(225, 244, 255);
+		background: -moz-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -webkit-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -o-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: -ms-linear-gradient(90deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);
+		background: linear-gradient(180deg, rgb(225, 100, 100) 10%, rgb(225, 100, 100) 0%);	
+	}
+	
+	span:hover
+	{
+		color: white;
+	}
+
+	span b
+	{
+		position: relative;
+		top: 7px;
+	}
+
+	#btn
+	{
+		float: left;
+		margin: 80px 0px;
+	}
+	
+	#calc
+	{
+		width: 360px;
+		height: 350px;
+
+		padding: 0px 30px ;
+		margin: 20px 130px 0px 0px;
+
+		overflow: hidden;
+
+		font:  15px/25px "Eras Medium ITC", tahoma ;
+		color: rgba(20, 20, 20, 0.69);
+		box-shadow: 4px 4px 12px 5px rgba(20,30,50,0.25);
+	   	-webkit-box-shadow: 4px 4px 12px 5px rgba(20,30,50,0.25);
+	   
+	   
+		background: rgb(225, 244, 255);
+		background: -moz-linear-gradient(90deg, rgba(20, 20, 20, 0.43) 25%, rgb(225, 244, 255) 0%);
+		background: -webkit-linear-gradient(90deg, rgba(20, 20, 20, 0.43) 25%, rgb(225, 244, 255) 0%);
+		background: -o-linear-gradient(90deg, rgba(20, 20, 20, 0.43) 25%, rgb(225, 244, 255) 0%);
+		background: -ms-linear-gradient(90deg, rgba(20, 20, 20, 0.43) 25%, rgb(225, 244, 255) 0%);
+		background: linear-gradient(180deg, rgba(20, 20, 20, 0.43) 25%, rgb(225, 244, 255) 0%);
+	   
+	   
+		
+	}
+
+	#tela
+	{
+		width: 240px;
+
+		padding: 5px 30px ;
+		margin: 25px 130px 10px 0px;
+
+		overflow: hidden;
+
+		font:  15px/25px "Eras Medium ITC", tahoma ;
+
+		text-align: right;
+	}
+
+	#operadores 
+	{
+		position: absolute;
+
+		margin: 40px 230px;
+		
+		width: 0px;
+		height: 0px;
+	}
+		
+		
+		
+	#operadores button
+	{
+		font:  15px/25px "Eras Medium ITC", tahoma ;
+		margin: 0px 0px 20px 2px;
+		float: left;
+		border-radius: 5%;
+		cursor: pointer;
+		display: block;
+		width: 70px;
+		height: 30px;
+		
+	}
+		
+		
+
+
