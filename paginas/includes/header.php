@@ -57,8 +57,8 @@
 		<!-- Navbar -->
 	<nav id="w_nav-header"> 
 			<?php  
-				$link = strip_tags(trim(($_GET['url']))) ? strip_tags(trim(($_GET['url']))) : "home" ;
-				$link = explode('/', $link);
+				//$link = strip_tags(trim(($_GET['url']))) ? strip_tags(trim(($_GET['url']))) : "home" ;
+				//$link = explode('/', $link);
 			?>
 
 			<div class="header">	
