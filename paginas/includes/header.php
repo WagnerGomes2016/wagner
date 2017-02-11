@@ -65,14 +65,7 @@
 				<div class="logo">
 				</div>
 				<ul class="menu"> 
-					<li><a href="<?php echo BASE.'/home' ?>" alt="home" class="<?php if(in_array('home', $link))echo 'active' ?>">HOME</a>
-						<ul class="submenu">
-							<li><a href="">HTML5 </a></li> 
-							<li><a href="">CSS3</a></li> 
-							<li><a href="">Java Script</a></li> 
-							<li><a href="">Ver todos tutorias</a></li> 
-						</ul> 
-					</li>
+					<li><a href="<?php echo BASE.'/home' ?>" alt="home" class="<?php if(in_array('home', $link))echo 'active' ?>">HOME</a></li>
 					<li><a href="<?php echo BASE.'/frontend' ?>" alt="frontend" class="<?php if(in_array('frontend', $link))echo 'active' ?>">FRONT END </a>
 						<ul class="submenu">
 							<li><a href="">HTML5 </a></li> 
@@ -81,7 +74,14 @@
 							<li><a href="">Ver todos tutorias</a></li> 
 						</ul> 
 					</li> 
-					<li><a href="<?php echo BASE.'/backend' ?>" alt="backend" class="<?php if(in_array('backend', $link))echo 'active' ?>">BACK END</a></li> 
+					<li><a href="<?php echo BASE.'/backend' ?>" alt="backend" class="<?php if(in_array('backend', $link))echo 'active' ?>">BACK END</a>
+						<ul class="submenu">
+							<li><a href="">HTML5 </a></li> 
+							<li><a href="">CSS3</a></li> 
+							<li><a href="">Java Script</a></li> 
+							<li><a href="">Ver todos tutorias</a></li> 
+						</ul> 
+					</li> 
 					<li><a href="<?php echo BASE.'/mysql' ?>" alt="mysql" class="<?php if(in_array('mysql', $link))echo 'active' ?>">MY SQL</a></li> 	 
 					<li><a href="<?php echo BASE.'/portifolio' ?>" alt="portifolio"  class="<?php if(in_array('portifolio', $link))echo 'active' ?>">PORTIFÓLIO</a></li> 	 	 
 					<li><a href="<?php echo BASE.'/sobre' ?>" alt="sobre"  class="<?php if(in_array('sobre', $link))echo 'active' ?>">SOBRE</a></li> 	 	 
